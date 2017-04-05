@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work.  Also, here's some more 
 ## Purpose
 
 Sample website with plenty of files for demos
+Adding an emergency fix after stash
 
 ## Ocelots
 
