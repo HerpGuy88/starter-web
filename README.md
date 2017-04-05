@@ -16,6 +16,10 @@ Meow Meow Meow Woof Woof!
 
 Wait, don't do that!
 
+## Are cookies delicious?
+
+Yes, yes they are.
+
 ##How to Contribute
 
 Please fork this repository and then issue Pull Requests for review
