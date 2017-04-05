@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ethan Jensen e.jensen@huskers.unl.edu NULL
 
 # THANKS
 
