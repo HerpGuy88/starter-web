@@ -15,3 +15,7 @@ Are catlike creatures.
 Meow Meow Meow Woof Woof!
 
 Wait, don't do that!
+
+###Copyright
+
+2014 Git Training
