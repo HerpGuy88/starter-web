@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.  Also, here's some more text about how it's always a bad idea to lick things you find on the ground.
 
 ## Purpose
 
